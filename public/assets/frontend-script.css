@@ -1,5 +1,0 @@
-@charset "utf-8";
-
-.popup-template .modal { opacity: 0; transition: 0.25s; }
-
-.popup-template .modal.is-open { opacity: 1; transition: 0.25s; }
